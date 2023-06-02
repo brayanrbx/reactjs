@@ -1,0 +1,29 @@
+.container-testimony {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1170px;
+    margin: 10px 10px 50px;
+    background-color: rgb(58, 53, 53);
+    box-shadow: 0 3px 13px 1px rgb(0 0 0 / 9%);
+}
+
+.img-testimony {
+    height: 100%;
+}
+
+.testimony-name {
+    font-size: 1.3rem;
+}
+
+.testimony-job {
+    margin-top: 15px;
+    padding-bottom: 30px;
+    font-size: 1.3rem;
+}
+
+.testimony-text {
+    padding: 10px;
+    text-align: justify;
+    font-size: 1.1rem;
+}
